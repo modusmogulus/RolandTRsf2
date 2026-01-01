@@ -1,1 +1,1 @@
-CC0, very wip. Mostly for my own use
+CC0, very wip. I made this mostly for my own use
